@@ -10,14 +10,14 @@ centre-de-vaccination-covid-centre-de-sante-bauchat-nation
 centre-de-vaccination-covid-19-des-sapeurs-pompiers-de-paris
 centre-de-vaccination-paris-14e
 centre-medical-institut-pasteur-cmip-vaccination-covid-19
-# centre-de-vaccination-covid-centre-henry-dunant-croix-rouge-francaise
+centre-de-vaccination-covid-centre-henry-dunant-croix-rouge-francaise
 centre-de-vaccination-covid-paris-15e
 vaccinodrome-covid-19-porte-de-versailles
 centre-de-vaccination-covid-19-mairie-du-16eme-arrondissement
 centre-de-vaccination-covid-19-paris-17eme
 sos-medecins-paris
 ars-idf-centre-covisan-cpts-paris-18
-# centre-de-vaccination-paris-19eme
+centre-de-vaccination-paris-19eme
 cvc-cpts-ump
 centre-de-vaccination-covid-19-stade-de-france
 centre-de-vaccination-covid-19-ivry-sur-seine
@@ -26,3 +26,14 @@ centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sa
 centre-de-vaccination-covid-19-choisy-le-roi
 centre-de-vaccination-covid-ville-de-creteil
 centre-de-vaccinations-covid-saint-mande
+centre-de-vaccination-covid-19-de-palaiseau-complexe-sportif-j-allain
+centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91
+centre-de-vaccination-covid-commune-d-igny
+centre-de-vaccination-covid-19-ville-de-longjumeau
+centre-de-vaccination-de-chatenay-malabry
+centre-de-vaccination-covid-19-des-ulis
+apta-78-vaccination-covid-19-velizy-villacoublay
+centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette
+centre-vaccination-covid-19-du-cms-de-bagneux
+centre-de-vaccination-covid-19-l-hay-les-roses
+centre-de-vaccination-antony-bourg-la-reine-sceaux
